@@ -1,7 +1,7 @@
-# Laboratorio 1 - Cuatrimestre 1 - Alem
-Archivos de la materia Laboratorio I - Alem - Primer Cuatrimestre - 2024
+# Laboratorio 1 - Cuatrimestre 1 - Tapalqué
+Archivos de la materia Laboratorio I - Tapalqué - Primer Cuatrimestre - 2024
 
-![portada](https://i.imgur.com/E4q1xJp.jpg)
+![Portada](https://i.imgur.com/5rrzufO.png)
 
 ## CodeBlocks
 
