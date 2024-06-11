@@ -1,3 +1,30 @@
+/*
+    Una veterinaria necesita procesar las consultas del £ltimo mes. Cada registros cuenta con los siguientes datos:
+
+    - N£mero de paciente (4 d¡gitos)
+    - precio de la consulta
+    - Tama¤o del animal ('C', 'M' o 'G')
+    - Urgencia (bool)
+
+    El ingreso de registro termina con un n£mero de paciente igual a cero.
+
+    Teniendo en cuenta el tama¤o del animal se cobra un extra:
+
+    - Chico: $1500
+    - Mediano: $2500
+    - Grande: $3500
+
+    Adem s, si la consulta fue urgente, se cobra $5.000
+
+    Se pide procesar e informar:
+
+    - El tama¤o de animal que m s consultas tuvo.
+    - La recaudaci¢n total para cada tama¤o.
+    - Porcentaje de consultas urgentes y no urgentes .
+    - El n£mero de paciente con menor importe.
+    - El tipo de animal que mayor cantidad deÿurgenciasÿtuvo.
+*/
+
 #include <iostream>
 using namespace std;
 
@@ -34,7 +61,7 @@ int main()
     // Punto D
     float importeMenor = -1;
     int importeMenorNroPaciente;
- 
+
     cout << "Ingrese el n£mero de paciente: ";
     cin >> nroPaciente;
 
@@ -96,7 +123,7 @@ int main()
             break;
         }
 
-        if(importeMenor == -1  || importeTotal < importeMenor)
+        if (importeMenor == -1 || importeTotal < importeMenor)
         {
             importeMenor = importeTotal;
             importeMenorNroPaciente = nroPaciente;
