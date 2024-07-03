@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1719945619 source:c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio 1\2024\tapalque\laboratorio1-20241c-tapalque\semana 13\semana_13\funciones.cpp
+	<iostream>
+	<cstdlib>
+	"funciones.h"
+
+1719946843 source:c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio 1\2024\tapalque\laboratorio1-20241c-tapalque\semana 13\semana_13\main.cpp
+	<iostream>
+	<time.h>
+	"funciones.h"
+	"utn.h"
+
+1719945503 c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio 1\2024\tapalque\laboratorio1-20241c-tapalque\semana 13\semana_13\funciones.h
+
+1719853304 source:c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio 1\2024\tapalque\laboratorio1-20241c-tapalque\semana 13\semana_13\utn.cpp
+	<iostream>
+	"utn.h"
+	<windows.h>
+
+1719852898 c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio 1\2024\tapalque\laboratorio1-20241c-tapalque\semana 13\semana_13\utn.h
+
